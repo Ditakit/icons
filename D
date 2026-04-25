@@ -1,0 +1,14 @@
+{
+  "name": "D",
+  "description": "",
+  "icons": [
+    {
+      "name": "APEC",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/emby.png"
+    }，
+    {
+      "name": "chinamobilemcloud",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/03CNSoft\/chinamobilemcloud.png"
+    },
+  ]
+ }
