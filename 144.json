@@ -1,0 +1,11 @@
+{
+  "name": "Ditakit",
+  "description": "收集自互联网，自用，弥补空缺和个人喜好",
+  "icons":
+  [
+    {
+      "name": "global",
+      "url": "https://raw.githubusercontent.com/Ditakit/icons/refs/heads/main/144/global.png"
+    },
+  ]
+ }
